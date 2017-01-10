@@ -1,0 +1,11 @@
+# Python compiled files
+__pycache__/
+
+# IDE files
+.idea/
+
+# files Python
+*.pyc
+
+# cache
+.cache/
